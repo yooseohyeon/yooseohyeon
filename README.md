@@ -1,6 +1,5 @@
 
 <h2>안녕하세요! 프론트엔드 개발자 유서현입니다👋</h2>
-<br>
 <h3>🛠️ Tech Stack</h3>
 
 <h4>Frontend</h4>
@@ -36,7 +35,6 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
-<br>
 
 <h3>🔗 Links</h3>
 
